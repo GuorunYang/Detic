@@ -1,0 +1,9 @@
+eucalyptus_tree
+log
+tree
+grass
+shrub
+flower
+trunk
+leaf
+fallen_leaves

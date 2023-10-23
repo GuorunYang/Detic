@@ -1,0 +1,6 @@
+rain
+snow
+fog
+hail
+lightning
+ice

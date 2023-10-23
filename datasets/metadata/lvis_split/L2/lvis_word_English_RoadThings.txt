@@ -1,0 +1,10 @@
+traffic_light
+stop_sign
+street_sign
+parking_meter
+streetlight
+barrel
+cone
+garbage
+grocery_bag
+person

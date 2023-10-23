@@ -1,0 +1,11 @@
+wagon_wheel
+aerosol_can
+license_plate
+passenger_car_(part_of_a_train)
+windshield_wiper
+taillight
+brake_light
+steering_wheel
+rearview_mirror
+car_battery
+radar

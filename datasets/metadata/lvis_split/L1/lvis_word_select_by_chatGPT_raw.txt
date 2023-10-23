@@ -1,0 +1,354 @@
+- aerosol_can
+- air_conditioner
+- ambulance
+- antenna (on cars or buildings)
+- trash_can (on the sidewalk)
+- baby_buggy (on the sidewalk)
+- backpack (on pedestrians or cyclists)
+- handbag (on pedestrians or cyclists)
+- suitcase (on pedestrians or cyclists, at bus stops, or in cars)
+- ball (may have rolled onto the street)
+- banana (discarded on the street)
+- Band_Aid (discarded on the street)
+- bandage (discarded on the street)
+- banner (attached to lampposts, bridges, or buildings)
+- barrel (in construction zones)
+- baseball (may have rolled onto the street)
+- baseball_bat (in a car or carried by a pedestrian)
+- baseball_cap (on pedestrians or cyclists)
+- baseball_glove (in a car or carried by a pedestrian)
+- basket (on a bicycle)
+- basketball (may have rolled onto the street)
+- bench (on the sidewalk)
+- bicycle
+- billboard
+- binder (carried by a pedestrian or in a car)
+- bird (flying across or perched nearby)
+- book (carried by a pedestrian or in a car)
+- boot (on pedestrians or discarded)
+- bottle (discarded on the street)
+- bow-tie (on pedestrians)
+- box (discarded, on a truck, or carried by a pedestrian)
+- briefcase (on pedestrians or in cars)
+- bus_(vehicle)
+- business_card (discarded on the street)
+- cab_(taxi)
+- camera (on a pedestrian, tourist, or in a car)
+- can (discarded on the street)
+- car_(automobile)
+- car_battery (in a car, discarded)
+- card (discarded on the street)
+- cargo_ship (visible in a harbor or river scenes, if near such locations)
+- carrot (discarded on the street)
+- cart (on the sidewalk or in use by pedestrians)
+- cat (stray or pet, possibly crossing the street)
+- cellular_telephone (in use by pedestrians or drivers)
+- chair (in outdoor seating areas adjacent to the road, or being moved)
+- checkbook (in a car or carried by a pedestrian)
+- cherry (discarded on the street)
+- chicken_(animal) (in rural or semi-rural settings)
+- cigarette (being smoked by pedestrians or discarded on the street)
+- clock (public clocks on streets/buildings)
+- clutch_bag (on pedestrians)
+- coat (on pedestrians or cyclists)
+- coffee_maker (visible in cafe windows next to the road)
+- coin (discarded on the street)
+- computer_keyboard (being carried or discarded)
+- cone (traffic cone)
+- convertible_(automobile)
+- cooler_(for_food) (in vehicles or with pedestrians)
+- cowboy_hat (on pedestrians or in cars)
+- crabmeat (discarded on the street)
+- crayon (discarded on the street)
+- cup (discarded on the street or in use by pedestrians)
+- curtain (visible in building windows)
+- cushion (discarded or fallen from a vehicle)
+- cycling_helmet (on cyclists)
+- dagger (unlikely, but possibly in a vehicle or carried by a pedestrian)
+- dog (on the sidewalk, in cars, or potentially loose)
+- dress (worn by pedestrians)
+- drum (musical instrument, unlikely but possibly seen in a vehicle or carried by a pedestrian)
+- duck (especially in parks or rural areas)
+- dustbin (on the sidewalk)
+- eagle (flying in the sky, especially in certain regions)
+- earphones (on pedestrians or cyclists)
+- earmuffs (on pedestrians in cold weather)
+- earthworm (on the pavement, especially after rain)
+- easel (unlikely, but possibly seen in a vehicle, at a sidewalk sale or being carried)
+- eel (highly unlikely in a typical road scene)
+- egg (discarded on the street)
+- eggplant (discarded on the street)
+- electric_fan (visible in building windows)
+- elephant (in regions where they live, or in a parade or circus context)
+- envelope (carried by a pedestrian or in a car)
+- eraser (unlikely, but possibly fallen from a vehicle or carried by a pedestrian)
+- escalator (visible in the exterior of shopping malls or transit stations)
+- eucalyptus_tree (in regions where they grow)
+- exercise_bike (unlikely, but possibly seen in a vehicle or through a window)
+- eye_glasses (on pedestrians or drivers)
+- eyeshadow (on pedestrians)
+- fabric_softener (unlikely, but possibly seen in a vehicle)
+- face_powder (on pedestrians)
+- fan (if someone is carrying it)
+- Ferris_wheel (if the road is near an amusement park)
+- ferry (if the road is near a body of water)
+- fire_engine
+- fire_extinguisher (if there is a fire station or a fire situation)
+- fire_hose (if there is a fire station or a fire situation)
+- fireplug
+- first-aid_kit (in a vehicle or with a pedestrian)
+- flag
+- flagpole
+- flashlight (if someone is carrying it)
+- flip-flop_(sandal) (if someone is wearing it)
+- folding_chair (if there is an event nearby)
+- forklift (if the road is near a construction site or warehouse)
+- freight_car (if the road is near a railway)
+- frisbee (if the road is near a park)
+- garbage
+- garbage_truck
+- garden_hose (if the road is near houses with gardens)
+- glove (if someone is carrying it)
+- golf_club (if the road is near a golf course)
+- golfcart (if the road is near a golf course)
+- grocery_bag (if someone is carrying it)
+- guitar (if someone is carrying it)
+- ham (if someone is carrying it)
+- hamburger (if someone is carrying it)
+- hammer (if someone is carrying it)
+- handcart (if someone is carrying it)
+- handkerchief (if someone is carrying it)
+- handsaw (if someone is carrying it)
+- hardback_book (if someone is carrying it)
+- hat (if someone is wearing it)
+- headlight
+- helicopter (if the road is near a helipad or airport)
+- helmet (if someone is wearing it)
+- highchair (if someone is carrying it)
+- hockey_stick (if the road is near a sports venue)
+- home_plate_(baseball) (if the road is near a baseball field)
+- hook (if someone is carrying it)
+- horse (if the road is near a farm or equestrian area)
+- hot-air_balloon (if the road is near a launch site)
+- hourglass (if someone is carrying it)
+- houseboat (if the road is near a body of water)
+- icecream
+- iPod
+- jacket
+- jean
+- jeep
+- jersey
+- key
+- keycard
+- kite
+- knee_pad
+- ladder
+- lamp
+- lamppost
+- laptop_computer
+- latch
+- lawn_mower
+- leather
+- legging_(clothing)
+- Lego
+- lemon
+- lemonade
+- lettuce
+- license_plate
+- life_buoy (if the road is near a body of water)
+- lightbulb
+- limousine
+- log (if the road is near a forest)
+- magazine
+- mailbox_(at_home)
+- map
+- marker
+- mascot (in the context of a sports event)
+- mask
+- mat_(gym_equipment)
+- medicine
+- milkshake
+- minivan
+- mirror
+- money
+- monitor_(computer_equipment) computer_monitor
+- motor_scooter
+- motor_vehicle
+- motorcycle
+- mouse_(computer_equipment)
+- mug
+- musical_instrument (if someone is carrying it)
+- napkin
+- necktie
+- newspaper
+- notebook
+- notepad
+- nut (if the road is near a forest)
+- orange_(fruit)
+- orange_juice
+- oven (if someone is carrying it)
+- overalls_(clothing)
+- pad (if someone is carrying it)
+- paddle (if someone is carrying it)
+- painting (if someone is carrying it)
+- parking_meter
+- passenger_car_(part_of_a_train) (if the road is near a train station)
+- passport (if someone is carrying it)
+- pea_(food) (if someone is carrying it)
+- pen (if someone is carrying it)
+- pencil (if someone is carrying it)
+- person
+- pet
+- pickup_truck
+- pie (if someone is carrying it)
+- pigeon
+- pillow (if someone is carrying it)
+- pinecone (depending on the location)
+- pinwheel (if someone is carrying it)
+- pipe (if someone is carrying it)
+- pizza (if someone is carrying it)
+- plate (if someone is carrying it)
+- pliers (if someone is carrying it)
+- pocket_watch (if someone is carrying it)
+- pole
+- polo_shirt (if someone is wearing it)
+- pony (if the road is near a farm)
+- pop_(soda) (if someone is carrying it)
+- postbox_(public)
+- postcard (if someone is carrying it)
+- poster (if someone is carrying it)
+- pot (if someone is carrying it)
+- potato (if someone is carrying it)
+- power_shovel (if there is a construction site nearby)
+- pretzel (if someone is carrying it)
+- printer (if someone is carrying it)
+- puppet (if someone is carrying it)
+- puppy
+- rabbit (if the road is near a forest or farm)
+- race_car
+- radar (if the road is near an airport)
+- radiator (if someone is carrying it)
+- radio_receiver (if someone is carrying it)
+- raft (if the road is near a body of water)
+- raincoat (if someone is wearing it)
+- rat (depending on the location)
+- rearview_mirror
+- record_player (if someone is carrying it)
+- remote_control (if someone is carrying it)
+- road_map
+- rocking_chair (if someone is carrying it)
+- roller_skate
+- Rollerblade
+- rolling_pin (if someone is carrying it)
+- router_(computer_equipment) (if someone is carrying it)
+- rubber_band (if someone is carrying it)
+- plastic_bag
+- saddle_(on_an_animal)
+- saddlebag
+- sandal_(type_of_shoe)
+- sandwich
+- satchel
+- school_bus
+- scoreboard
+- screwdriver
+- sculpture
+- seaplane (if the road is near a body of water)
+- shaker (if someone is carrying it)
+- shirt
+- shoe
+- shopping_bag
+- shopping_cart
+- short_pants
+- shoulder_bag
+- signboard
+- skateboard
+- ski (if the road is near a ski resort)
+- sled (if the road is near a snowy area)
+- sling_(bandage)
+- slipper_(footwear)
+- snowboard (if the road is near a snowboarding area)
+- snowmobile (if the road is in a snowy area)
+- soccer_ball
+- sock
+- softball
+- solar_array (if the road is near a solar farm)
+- sombrero
+- soup_bowl (if someone is carrying it)
+- sour_cream (if someone is carrying it)
+- soya_milk (if someone is carrying it)
+- spatula (if someone is carrying it)
+- spectacles
+- spice_rack (if someone is carrying it)
+- sponge (if someone is carrying it)
+- sportswear
+- spotlight
+- squirrel
+- stagecoach
+- statue_(sculpture)
+- steering_wheel
+- stop_sign
+- brake_light
+- straw_(for_drinking)
+- street_sign
+- streetlight
+- suit_(clothing)
+- sunglasses
+- sunhat
+- sweat_pants
+- sweater
+- sweatshirt
+- swimsuit
+- tank_top_(clothing)
+- taillight
+- telephone_booth
+- telephone_pole
+- tennis_ball
+- tennis_racket
+- thermos_bottle
+- thumbtack
+- tights_(clothing)
+- timer
+- toast_(food)
+- toilet
+- tortilla
+- tow_truck
+- towel
+- toy
+- tractor_(farm_equipment)
+- traffic_light
+- trailer_truck
+- train_(railroad_vehicle)
+- trench_coat
+- tricycle
+- trousers
+- truck
+- turban
+- umbrella
+- underwear
+- unicycle
+- urinal
+- vacuum_cleaner
+- vase
+- vending_machine
+- vest
+- volleyball
+- wagon
+- wagon_wheel
+- walking_stick
+- wall_clock
+- wallet
+- wardrobe
+- watch
+- water_bottle
+- water_faucet
+- water_scooter
+- water_tower
+- wheelchair
+- whistle
+- windmill
+- windshield_wiper
+- wine_bottle
+- wrench
+- wristband
+- yacht
+- zebra

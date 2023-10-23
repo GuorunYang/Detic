@@ -1,0 +1,9 @@
+person
+pedestrian
+adult
+child
+disabled_person
+sitting_person
+squatting_person
+running_person
+bending_person

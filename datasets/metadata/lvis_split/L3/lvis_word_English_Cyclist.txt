@@ -1,0 +1,14 @@
+bicycle
+cyclist
+motorcycle
+motorist
+tricycle
+tricyclist
+baby_buggy
+shoppint_cart
+stroller
+unicycle
+wheelchair
+motor_scooter
+water_scooter
+breakfast_cart
